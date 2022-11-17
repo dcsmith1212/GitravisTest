@@ -21,7 +21,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GitravisPublic # Set in the settings page of your repository, as a secure variable
+  github_token: $TRAVIS_DEPLOY_TOKEN # Set in the settings page of your repository, as a secure variable
   local_dir: output
   on:
     branch: master
