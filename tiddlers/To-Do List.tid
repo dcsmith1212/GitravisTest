@@ -1,5 +1,5 @@
 created: 20221025212934359
-modified: 20221117014508165
+modified: 20221119004223355
 tags: 
 title: To-Do List
 type: text/vnd.tiddlywiki
@@ -12,6 +12,7 @@ Adulting:
 
 Wiki maintenance:
 
+* https://groktiddlywiki.com/read/
 * Add calendar plugin
 * Add LaTeX plugin
 * Better photo management
@@ -19,6 +20,7 @@ Wiki maintenance:
 
 nVoq:
 
+* https://groktiddlywiki.com/read/
 * Test matching/grammar API item
 * Mid-Dictation Commands
 ** Replacing XTopic components on the fly
